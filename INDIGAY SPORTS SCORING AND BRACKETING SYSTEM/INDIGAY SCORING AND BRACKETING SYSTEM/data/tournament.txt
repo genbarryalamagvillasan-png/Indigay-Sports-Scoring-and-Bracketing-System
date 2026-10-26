@@ -1,0 +1,95 @@
+SPORT|Basketball
+TEAM|CON
+TEAM|CHTM
+TEAM|COC x CED x COE
+TEAM|CAS x CCS
+TEAM|SHS
+TEAM|CBAA
+TEAM|JHS
+CAPTAIN|CON|erickarainalamag.chavez@my.smciligan.edu.ph
+CAPTAIN|CHTM|ianandrealamag.chavez@my.smciligan.edu.ph
+CAPTAIN|COC x CED x COE|justinleecabanero.bernardo@my.smciligan.edu.ph
+CAPTAIN|CAS x CCS|marandrecaplano.buhisan@my.smciligan.edu.ph
+CAPTAIN|SHS|selwynrodrigo.cuesta@my.smciligan.edu.ph
+CAPTAIN|CBAA|ryanalamag.monsanto@my.smciligan.edu.ph
+CAPTAIN|JHS|froilantapian.villasan@my.smciligan.edu.ph
+PLAYER|CON|alexakatealamag.chavez@my.smciligan.edu.ph
+PLAYER|CHTM|jaynielalamag.barinque@my.smciligan.edu.ph
+PLAYER|COC x CED x COE|jannaalamag.barinque@my.smciligan.edu.ph
+PLAYER|COC x CED x COE|jcalamag.barinque@my.smciligan.edu.ph
+PLAYER|CAS x CCS|danfeljohncadungog.king@my.smciligan.edu.ph
+PLAYER|SHS|rynanalamag.monsanto@my.smciligan.edu.ph
+PLAYER|JHS|sholantapian.villasan@my.smciligan.edu.ph
+PLAYER|CBAA|rhomalamag.monsanto@my.smciligan.edu.ph
+READY|CON
+READY|CHTM
+READY|COC x CED x COE
+READY|CAS x CCS
+READY|SHS
+READY|CBAA
+READY|JHS
+BRACKET|bye|JHS
+BRACKET|winners|{}
+BRACKET|losers|{}
+RANKING|6th|CHTM
+RANKING|5th|SHS
+RANKING|4th|CBAA
+RANKING|3rd|COC x CED x COE
+RANKING|2nd|CON
+RANKING|1st|JHS
+RANKING|CHAMPION|CAS x CCS
+GAME|1|CON|CHTM|12|4|CON|CHTM|Completed|||0|0
+GAME|2|COC x CED x COE|CAS x CCS|3|5|CAS x CCS|COC x CED x COE|Completed|||0|0
+GAME|3|SHS|CBAA|8|11|CBAA|SHS|Completed|||0|0
+GAME|4|CON|CAS x CCS|2|15|CAS x CCS|CON|Completed|winner:1|winner:2|0|0
+GAME|5|CBAA|JHS|7|8|JHS|CBAA|Completed|winner:3||0|0
+GAME|6|CHTM|COC x CED x COE|6|10|COC x CED x COE|CHTM|Completed|loser:1|loser:2|0|0
+GAME|7|SHS|CON|0|6|CON|SHS|Completed|loser:3|loser:4|0|0
+GAME|8|COC x CED x COE|CBAA|8|7|COC x CED x COE|CBAA|Completed|winner:6|loser:5|0|0
+GAME|9|CAS x CCS|JHS|0|9|JHS|CAS x CCS|Completed|winner:4|winner:5|0|0
+GAME|10|CON|COC x CED x COE|5|0|CON|COC x CED x COE|Completed|winner:7|winner:8|0|0
+GAME|11|CON|CAS x CCS|0|7|CAS x CCS|CON|Completed|winner:10|loser:9|0|0
+GAME|12|CAS x CCS|JHS|3|0|CAS x CCS|JHS|Completed|winner:11|winner:9|0|0
+GAME|13|CAS x CCS|JHS|6|2|CAS x CCS|JHS|Completed|||0|0
+End
+SPORT|Volleyball - Men's
+End
+SPORT|Volleyball - Women's
+End
+SPORT|Badminton - Men's
+End
+SPORT|Badminton - Women's
+End
+SPORT|Table Tennis - Men's
+End
+SPORT|Table Tennis - Women's
+End
+SPORT|Pickleball - Men's
+End
+SPORT|Pickleball - Women's
+End
+SPORT|Pickleball - Mixed
+End
+SPORT|Soccer
+TEAM|CON
+TEAM|CHTM
+TEAM|COC x CED x COE
+TEAM|CAS x CCS
+TEAM|SHS
+TEAM|CBAA
+TEAM|JHS
+CAPTAIN|CON|erickarainalamag.chavez@my.smciligan.edu.ph
+CAPTAIN|CHTM|ianandrealamag.chavez@my.smciligan.edu.ph
+CAPTAIN|COC x CED x COE|3
+CAPTAIN|CAS x CCS|5
+CAPTAIN|SHS|7
+CAPTAIN|CBAA|11
+CAPTAIN|JHS|9
+PLAYER|CON|alexakatealamag.chavez@my.smciligan.edu.ph
+PLAYER|CHTM|1
+PLAYER|CHTM|2
+READY|CON
+READY|CHTM
+End
+SPORT|Frisbee
+End

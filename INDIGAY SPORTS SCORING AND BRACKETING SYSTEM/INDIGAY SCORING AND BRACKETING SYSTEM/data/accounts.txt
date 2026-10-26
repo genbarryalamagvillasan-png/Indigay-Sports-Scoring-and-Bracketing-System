@@ -1,0 +1,32 @@
+admin,admin123,admin,,,,
+genbarryalamag.villasan@my.smciligan.edu.ph,genvill123,student,CCS,Gen Barry,Alamag,Villasan
+erickarainalamag.chavez@my.smciligan.edu.ph,rain123,student,CON,Ericka Rain,Alamag,Chavez
+alexakatealamag.chavez@my.smciligan.edu.ph,kate123,student,CON,Alexa Kate,Alamag,Chavez
+ianandrealamag.chavez@my.smciligan.edu.ph,ian123,student,CHTM,Ian Andre,Alamag,Chavez
+jaynielalamag.barinque@my.smciligan.edu.ph,jayniel123,student,CHTM,Jayniel,Alamag,Barinque
+justinleecabanero.bernardo@my.smciligan.edu.ph,justin123,student,COC,Justin Lee,Cabanero,Bernardo
+jannaalamag.barinque@my.smciligan.edu.ph,janna123,student,CED,Janna,Alamag,Barinque
+jcalamag.barinque@my.smciligan.edu.ph,jc1234,student,COE,JC,Alamag,Barinque
+marandrecaplano.buhisan@my.smciligan.edu.ph,mar123,student,CAS,Mar Andre,Caplano,Buhisan
+danfeljohncadungog.king@my.smciligan.edu.ph,king123,student,CCS,Danfel John,Cadungog,King
+selwynrodrigo.cuesta@my.smciligan.edu.ph,cuesta123,student,SHS,Selwyn,Rodrigo,Cuesta
+rynanalamag.monsanto@my.smciligan.edu.ph,rynan123,student,SHS,Rynan,Alamag,Monsanto
+ryanalamag.monsanto@my.smciligan.edu.ph,ryan123,student,CBAA,Ryan,Alamag,Monsanto
+rhomalamag.monsanto@my.smciligan.edu.ph,rhom123,student,CBAA,Rhom,Alamag,Monsanto
+froilantapian.villasan@my.smciligan.edu.ph,froilan123,student,JHS,Froilan,Tapian,Villasan
+sholantapian.villasan@my.smciligan.edu.ph,sholan123,student,JHS,Sholan,Tapian,Villasan
+jamiradrian.oso@my.smciligan.edu.ph,jamir123,student,CCS,Jamir,Adrian,Oso
+1,jayniel123,student,CHTM,Jayniel,Alamag,Barinque
+2,jayniel123,student,CHTM,Jayniel,Alamag,Barinque
+3@my.smciligan.edu.ph,jayniel123,student,COC,Jayniel,Alamag,Barinque
+4@my.smciligan.edu.ph,jayniel123,student,CED,Jayniel,Alamag,Barinque
+5@my.smciligan.edu.ph,jayniel123,student,CAS,Jayniel,Alamag,Barinque
+6@my.smciligan.edu.ph,jayniel123,student,CCS,Jayniel,Alamag,Barinque
+7@my.smciligan.edu.ph,jayniel123,student,SHS,Jayniel,Alamag,Barinque
+8@my.smciligan.edu.ph,jayniel123,student,SHS,Jayniel,Alamag,Barinque
+9@my.smciligan.edu.ph,jayniel123,student,JHS,Jayniel,Alamag,Barinque
+10@my.smciligan.edu.ph,jayniel123,student,JHS,Jayniel,Alamag,Barinque
+11@my.smciligan.edu.ph,jayniel123,student,CBAA,Jayniel,Alamag,Barinque
+12@my.smciligan.edu.ph,jayniel123,student,CBAA,Jayniel,Alamag,Barinque
+
+
